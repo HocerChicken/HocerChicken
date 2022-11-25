@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @HocerChicken
-- 👀 I’m interested in web development and animee :))
+- 👀 I’m interested in web development 
+
 - 🌱 I’m currently learning software engineering at Ton Duc Thang University
 - 💞️ I’m looking to collaborate on a software company
 - 📫 How to reach me:
