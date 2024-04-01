@@ -7,7 +7,7 @@
 FB: https://www.facebook.com/hocthai.pham.1
 gmail: phamthaihoc008@gmail.com
 
-- My Github Status
+- My Github Status:
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=HocerChicken)](https://git.io/streak-stats)
 <!---
